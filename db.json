@@ -2,13 +2,13 @@
 "tickets": [
     {
       "id": "101",
-      "clienteId": "c-001",
+      "clienteId": "001",
       "descripcion": "No tengo acceso a internet",
       "estado": "abierto"
     },
     {
       "id": "102",
-      "clienteId": "c-002",
+      "clienteId": "002",
       "descripcion": "El sistema se congela al iniciar",
       "estado": "en_progreso"
     }
