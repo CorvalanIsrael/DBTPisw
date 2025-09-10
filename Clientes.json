@@ -1,1 +1,15 @@
 --- clientes ---
+{
+  "clientes": [
+    {
+      "id": "001",
+      "nombre": "Juan Pérez",
+      "email": "juan@mail.com"
+    },
+    {
+      "id": "002",
+      "nombre": "Ana López",
+      "email": "ana@mail.com"
+    }
+  ]
+ 
